@@ -1,0 +1,12 @@
+{
+  "name": "Memories",
+  "displayName": "Memories",
+  "expo": {
+    "name": "Memories",
+    "slug": "Memories",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
